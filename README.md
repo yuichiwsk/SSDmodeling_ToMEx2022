@@ -14,6 +14,7 @@ For your information, we have run the SSD models using:
 - R version 3.6.3
 - R package "rstan" version 2.21.2
 - R package "loo" version 2.5.1
+
 Then, please see the R code "SSDmodeling_Fullmodel_v1.r"
 
 
