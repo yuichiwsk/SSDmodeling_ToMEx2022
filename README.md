@@ -9,13 +9,16 @@ Data_SSDmodeling_ToMEx2022_v1.xlsx
 The "Data" sheet contains the data used for the analysis, and the "Notes_rows_names" sheet provides additional notes related to the "Data" sheet.
 
 ## R Code
-Before stating, you need to install "rstan." Please see this webpage at https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started. Running Bayesian SSD models using the R package “rstan” can be challenging due to compatibility issues with different versions of R and related R packages. 
-For your information, we have run the SSD models using:
+Before getting started, please ensure that you have installed "RStan." For instructions, refer to the webpage at: https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started.
+
+Running Bayesian SSD models using the R package “rstan” can be challenging due to compatibility issues with different versions of R and related R packages. 
+
+For your information, we have run the SSD models using the following configurations:
 - R version 3.6.3
 - R package "rstan" version 2.21.2
 - R package "loo" version 2.5.1
 
-Then, please see the R code "SSDmodeling_Fullmodel_v1.r"
+To proceed, please refer to the R code file "SSDmodeling_Fullmodel_v1.r" for further instructions and implementation details.
 
 
 
