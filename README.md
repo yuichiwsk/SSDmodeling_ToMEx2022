@@ -19,7 +19,8 @@ For your information, we have run the SSD models using the following configurati
 
 To proceed, please refer to the R code file "SSDmodeling_Fullmodel_v1.r" for further instructions and implementation details.
 
-Please contact Yuichi Iwasaki at yuichiwsk (at) gmail.com or yuichi-iwasaki (at) aist.go.jp if you have any queries and questions.
+
+Please contact Yuichi Iwasaki at yuichi-iwasaki (at) aist.go.jp or yuichiwsk (at) gmail.com if you have any queries and questions.
 
 
 
