@@ -1,6 +1,6 @@
 # Bayesian SSD modeling using ToMEx 1.0 dataset
 
-This repository contains R code and data used in Iwasaki et al. (under review), "Estimating species sensitivity distributions for microplastics by quantitatively considering particle characteristics using a recently created ecotoxicity database."
+This repository contains R code and data used in Iwasaki et al. (accepted in Microplastics and Nanoplastics) , "Estimating species sensitivity distributions for microplastics by quantitatively considering particle characteristics using a recently created ecotoxicity database."
 
 ## Data
 Data_SSDmodeling_ToMEx2022_v1.xlsx
