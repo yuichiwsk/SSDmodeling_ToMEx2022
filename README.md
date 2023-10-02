@@ -2,7 +2,8 @@
 
 This repository contains R code and data used in Iwasaki et al. (2023).
 
-Yuichi Iwasaki, Kazutaka M. Takeshita, Koji Ueda, Wataru Naito (2023) Estimating species sensitivity distributions for microplastics by quantitively considering particle characteristics using a recently created ecotoxicity database. Microplastics and Nanoplastics. 3: 21. 
+Yuichi Iwasaki, Kazutaka M. Takeshita, Koji Ueda, Wataru Naito (2023) Estimating species sensitivity distributions for microplastics by quantitively considering particle characteristics using a recently created ecotoxicity database. Microplastics and Nanoplastics. 3: 21.
+
 Open access --> https://doi.org/10.1186/s43591-023-00070-6
 
 ## Data
