@@ -5,8 +5,9 @@ This repository contains R code and data used in Iwasaki et al. (2023).
 Yuichi Iwasaki, Kazutaka M. Takeshita, Koji Ueda, Wataru Naito (2023) Estimating species sensitivity distributions for microplastics by quantitatively considering particle characteristics using a recently created ecotoxicity database. Microplastics and Nanoplastics. 3: 21.
 
 Open access --> https://doi.org/10.1186/s43591-023-00070-6
-
+<span style="color: red;">
 NOTE: The title of y-axis of Fig. 2 (Log10-transformed HC5 (μg/L)) is not accurate. The accurate title of y-axis is "HC5 (μg/L: log-scale)".
+</span>
 ## Data
 Data_SSDmodeling_ToMEx2022_v1.xlsx
 
