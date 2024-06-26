@@ -31,5 +31,6 @@ To proceed, please refer to the R code file "SSDmodeling_Fullmodel_v1.r" for fur
 
 Please contact Yuichi Iwasaki at yuichi-iwasaki (at) aist.go.jp or yuichiwsk (at) gmail.com if you have any queries and questions.
 
-
+## Risk calculation based on the best SSD model developed
+See 240626_Risk_calculation_github_v1.R
 
