@@ -8,8 +8,9 @@ Open access --> https://doi.org/10.1186/s43591-023-00070-6
 
 :exclamation:
 **NOTE: The title of y-axis of Fig. 2 (Log10-transformed HC5 (μg/L)) is not accurate. The accurate title of y-axis is "HC5 (μg/L: log-scale)".**
+<br>
 :exclamation:
-**NOTE: The parameters in Table 1 result in SSDs expressed in µg/mL on a log10 scale. Please be aware that these values are not in µg/L.**
+**NOTE: The parameters in Table 1 result in SSDs expressed in µg/mL on a log10 scale. Please be aware that these values are not in µg/L. To convert to µg/L, simply add 3 to the intercept (α).**
 <br>
 <br>
 
